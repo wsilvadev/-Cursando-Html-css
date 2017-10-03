@@ -1,0 +1,19 @@
+*{margin:0; padding:0;}
+
+h1{
+	font-family: Constantia;
+	color:#A9A9A9;
+	text-shadow: 2px 1px 1px white;
+}
+img{
+	width:100px;
+	height:100px;
+	box-shadow: 2px 2px 5px white;
+	
+}
+body{
+	background-image: url(http://www.imagenslivres.com/wp-content/uploads/2015/12/Fundo-de-Madeira-Envelhecida-Textura.jpg);>
+}
+p{
+	color: white;
+}
